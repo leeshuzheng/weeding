@@ -14,6 +14,7 @@ export const RsvpForm = () => {
   const {
     register,
     handleSubmit,
+    setValue,
     formState: { errors, isSubmitting, isSubmitSuccessful, isDirty },
   } = useForm<FormData>();
 
@@ -40,6 +41,7 @@ export const RsvpForm = () => {
 
   const handleRsvpChange = (value: string) => {
     setRsvpValue(value);
+    setValue("rsvp", value, { shouldDirty: true }); // Add this line
   };
 
   if (isSubmitSuccessful && successMessage) {
@@ -65,7 +67,7 @@ export const RsvpForm = () => {
         <GroupBox label="RSVP">
           {rsvpValues.map((r, i) => (
             <Radio
-              {...register("rsvp", { required: true })}
+              {...register("rsvp")}
               className="[&>div]:before:!hidden"
               key={i}
               checked={rsvpValue === r.value}
@@ -73,6 +75,7 @@ export const RsvpForm = () => {
               value={r.value}
               name="rsvp"
               onChange={() => handleRsvpChange(r.value)}
+              required
             />
           ))}
         </GroupBox>
