@@ -30,7 +30,9 @@ export const FAQ = () => {
           <li>
             <b className="!font-semibold">Food and drinks</b>
             <br />
-            There’ll be bar bites and both alcoholic and non-alcoholic drinks. Let us know if you have any allergies
+            There’ll be bar bites and both alcoholic and non-alcoholic drinks. Let us know if you have any allergies.
+            The Projector is not halal certified, but does not use any pork or lard in their food. Let us know if there
+            are any issues!
           </li>
           <li>
             <b className="!font-semibold">Venue rules</b>
