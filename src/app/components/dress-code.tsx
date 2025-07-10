@@ -1,7 +1,7 @@
 import Image from "next/image";
 import dressCode from "@/app/public/assets/dress-code.jpg";
-import dressCode2 from "@/app/public/assets/dress-code-2.jpeg";
-import dressCode3 from "@/app/public/assets/dress-code-3.jpeg";
+import dressCode2 from "@/app/public/assets/whitechicks.jpg";
+import dressCode3 from "@/app/public/assets/theoc.jpg";
 
 export const DressCode = () => {
   return (
