@@ -28,6 +28,12 @@ export const FAQ = () => {
             Any gesture is appreciated, but definitely not tied to the value of our friendship
           </li>
           <li>
+            <b className="!font-semibold">“What about gifts?“</b>
+            <br />
+            We prefer not to receive physical gifts, although if you&apos;d like to share something, we appreciate small
+            heartfelt gestures :)
+          </li>
+          <li>
             <b className="!font-semibold">Food and drinks</b>
             <br />
             There’ll be bar bites and both alcoholic and non-alcoholic drinks. Let us know if you have any allergies.
