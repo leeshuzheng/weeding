@@ -12,8 +12,7 @@ export const FAQ = () => {
           <li>
             <b className="!font-semibold">Programme</b>
             <br />
-            Free and easy, it’s really just a hangout. We’ll probably say a few words midway through the night but
-            that’s about it
+            Free and easy, it’s really just a hangout. We’ll probably say a few words around 9:30pm but that’s about it
           </li>
           <li>
             <b className="!font-semibold">Plus ones and children</b>
@@ -24,8 +23,8 @@ export const FAQ = () => {
           <li>
             <b className="!font-semibold">“Omg… how much to bao sia…”</b>
             <br />
-            No expectations. We see angbaos as traditional tokens of love and blessings, and not as a bill to settle.
-            Any gesture is appreciated, but definitely not tied to the value of our friendship
+            We see angbaos as traditional tokens of love and blessings, and not as a bill to settle. Any gesture is
+            appreciated, but definitely not tied to the value of our friendship
           </li>
           <li>
             <b className="!font-semibold">“What about gifts?“</b>
@@ -36,9 +35,8 @@ export const FAQ = () => {
           <li>
             <b className="!font-semibold">Food and drinks</b>
             <br />
-            There’ll be bar bites and both alcoholic and non-alcoholic drinks. Let us know if you have any allergies.
-            The Projector is not halal certified, but does not use any pork or lard in their food. Let us know if there
-            are any issues!
+            There’ll be bar bites and both alcoholic and non-alcoholic drinks. The Projector is not halal certified, but
+            does not use any pork or lard in their food. Let us know if you have any allergies or concerns!
           </li>
           <li>
             <b className="!font-semibold">Venue rules</b>
@@ -49,8 +47,7 @@ export const FAQ = () => {
           <li>
             <b className="!font-semibold">RSVP</b>
             <br />
-            Let us know by end June if you’re coming. But if you’re unwell on the day of, please wear a mask or sit this
-            one out
+            You should have RSVP-ed by now... but if you’re unwell on the day of, please wear a mask or sit this one out
             <br />
             (we love you but Chris will fall sick and Hadi will suffer)
           </li>
