@@ -9,8 +9,9 @@ export const DressCode = () => {
       <h2 className="!font-bold !text-2xl">Not too sharp, not too shabby</h2>
       <br />
       <p className="!p-[1px]">
-        Fun and cute, like chick flick prom x early-2000s house party. Whatever you feel most confident and comfortable
-        in! Just no ripped jeans and cargo pants please...
+        Chick flick prom x early-2000s house party. Playful fifth date energy with someone you have a big crush on,
+        looking cute and ready for someplace fun. That&apos;s the vibe but don&apos;t stress too much, we&apos;re rly
+        not fussed. Nothing&apos;s off limits (colours included) as long as you feel confident, comfy, and cute!
         <br />
         <br />
         <br />
