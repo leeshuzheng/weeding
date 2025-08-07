@@ -10,10 +10,10 @@ export const TABS = [
     label: "Details",
     value: 1,
   },
-  {
-    label: "RSVP",
-    value: 2,
-  },
+  // {
+  //   label: "RSVP",
+  //   value: 2,
+  // },
   {
     label: "Outfit",
     value: 3,

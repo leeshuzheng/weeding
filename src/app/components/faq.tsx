@@ -45,11 +45,9 @@ export const FAQ = () => {
             neatly :) Don’t get us into trouble...
           </li>
           <li>
-            <b className="!font-semibold">RSVP</b>
+            <b className="!font-semibold">If you&apos;re unwell..</b>
             <br />
-            You should have RSVP-ed by now... but if you’re unwell on the day of, please wear a mask or sit this one out
-            <br />
-            (we love you but Chris will fall sick and Hadi will suffer)
+            Please wear a mask or sit this one out. We love you but Chris will fall sick and Hadi will suffer...
           </li>
           <li>
             <b className="!font-semibold">Parking</b>
